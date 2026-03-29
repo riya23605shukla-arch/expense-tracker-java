@@ -246,7 +246,7 @@ Amount: 500 | Category: Food | Date: 29-03-2026 | Desc: Lunch
 
 
 
-\---
+\
 
 
 

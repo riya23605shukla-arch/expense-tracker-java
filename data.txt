@@ -1,0 +1,8 @@
+500.0,food,29-03-2026,lunch
+300.0,dinner,30-03-2026,food
+280.0,petrol,23-03-2026,Vehicle
+450.0,coffee,21-03-2026,beverage
+500.0,Food,29-03-2026,Lunch
+1200.0,Travel,28-03-2026,Bus Ticket
+300.0,Food,28-03-2026,Snacks
+800.0,Shopping,27-03-2026,Clothes
